@@ -3,7 +3,7 @@
 I'm a Front-End Developer based in Brazil. 
 
  - 🧠 Enthusiast of the best Web Development technologies & UI design.
- - 💻 Currently, I'm studying Systems Analysis and Development.
+ - 💻 Currently, I'm studying Software Engineering.
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
