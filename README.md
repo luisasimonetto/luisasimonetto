@@ -3,13 +3,11 @@
 PT-BR
 - Olá, me chamo Luisa.
 - Sou Ítalo-brasileira e tenho 26 anos.
-- 👩🏻‍💻 Estou estudando Desenvolvimento Front-End e UI Design.
 - 💡 Disposta a estar constantemente aprendendo novas tecnologias.
 
 EN
 - Hello, my name is Luisa.
 -  I've Brazilian and Italian citizenship and I'm 26 years old.
-- 👩🏻‍💻 I'm studying Front-End Development and UI Design.
 - 💡 Willing to be constantly learning new technologies.
 
 ##
