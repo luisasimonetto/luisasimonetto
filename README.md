@@ -2,12 +2,10 @@
 
 PT-BR
 - Olá, me chamo Luisa.
-- Sou Ítalo-brasileira e tenho 26 anos.
 - 💡 Disposta a estar constantemente aprendendo novas tecnologias.
 
 EN
 - Hello, my name is Luisa.
--  I've Brazilian and Italian citizenship and I'm 26 years old.
 - 💡 Willing to be constantly learning new technologies.
 
 ##
