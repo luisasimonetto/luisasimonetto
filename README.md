@@ -12,18 +12,15 @@ Sou QA especializada em automação de testes, integrações, APIs e qualidade d
 - Selenium WebDriver
 - Playwright
 - Cypress
-- Robot Framework
 - Cucumber
 - JUnit
 - Appium
-- TestNG
 
 ### APIs
 - Postman
 - RestAssured
 - Swagger/OpenAPI
 - WireMock
-- Webhooks
 
 ### Linguagens
 - Java
