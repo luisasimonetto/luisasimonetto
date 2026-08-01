@@ -6,35 +6,6 @@ Sou QA especializada em automação de testes, integrações, APIs e qualidade d
 
 ---
 
-## 🚀 Tecnologias
-
-### QA
-- Selenium WebDriver
-- Cucumber
-- JUnit
-
-### APIs
-- Postman
-- RestAssured
-- Swagger/OpenAPI
-- WireMock
-
-### Linguagens
-- Java
-- SQL
-- PHP
-
-### DevOps
-- Git
-- GitHub Actions
-- Jenkins
-- Docker
-
-### Banco de Dados
-- Oracle
-
----
-
 ## 📫 Contato
 
 LinkedIn: www.linkedin.com/in/luisa-simonetto
