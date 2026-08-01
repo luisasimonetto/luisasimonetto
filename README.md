@@ -9,5 +9,3 @@ Sou QA especializada em automação de testes, integrações, APIs e qualidade d
 ## 📫 Contato
 
 LinkedIn: www.linkedin.com/in/luisa-simonetto
-
-Email: luisasimonetto1@gmail.com
