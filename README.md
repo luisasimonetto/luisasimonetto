@@ -10,11 +10,8 @@ Sou QA especializada em automação de testes, integrações, APIs e qualidade d
 
 ### QA
 - Selenium WebDriver
-- Playwright
-- Cypress
 - Cucumber
 - JUnit
-- Appium
 
 ### APIs
 - Postman
@@ -24,7 +21,6 @@ Sou QA especializada em automação de testes, integrações, APIs e qualidade d
 
 ### Linguagens
 - Java
-- Python
 - SQL
 - PHP
 
