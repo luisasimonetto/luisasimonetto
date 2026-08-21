@@ -1,10 +1,21 @@
-# Olá! 👋 Eu sou Luisa Simonetto
+# Olá, eu sou a Lu! 😊
 
-💻 Software Quality Assurance (QA) Engineer
-
-Sou QA especializada em automação de testes, integrações, APIs e qualidade de soluções inteligentes. Tenho experiência em garantir a confiabilidade de aplicações Web, APIs REST e fluxos de integração, utilizando automação, testes funcionais e validação de regras de negócio.
+Sou Analista de Qualidade de Software com foco em garantir uma qualidade de ponta a ponta, da estratégia à execução, da prevenção de bugs até a documentação completa.
 
 ---
+
+## 📝 Sobre mim
+- QA Júnior com atuação em múltiplas frentes (API, Web, Mobile)
+- Graduando em Análise e Desenvolvimento de Sistemas
+- Realizei transição de carreira do Direito para Tecnologia
+- Destaque em testes manuais, exploratórios, regressivos, usabilidade, API e testes mobile
+- Documentação de testes: Plano de Teste, Descrição de Requisitos, Registro de Defeitos, etc
+- Escrita de cenários de teste em BDD/Gherkin
+- Participação ativa em refinamentos, análises de bugs e cerimônias Scrum
+- Validações com SQL em banco de dados, análise de logs e comportamento do sistema
+- Conhecimento em automação de testes com Cypress, Selenium, Playwright e Appium
+
+--- 
 
 ## 📫 Contato
 
